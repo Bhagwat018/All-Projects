@@ -1,0 +1,15 @@
+#dinn{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    background-color: coral;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+}
+#dinn input{
+    margin-top: 20px;
+    width: 40vh;
+    margin-bottom: 10px;
+    
+}
